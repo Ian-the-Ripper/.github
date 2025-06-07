@@ -19,6 +19,23 @@ dictionary attacks, brute force, and rule-based attacks, Ian The Ripper brings p
 
 ---
 
+**Special Note**
+
+Most people don’t realize how predictable they are—until it’s too late. In 🌍 Africa, a staggering 95.6% of mobile money users rely on their birthdate as their PIN. In 🌏 Asia, it's 83.2%. 
+In 🌎 North America, 86.9%. In 🌎 South America, it peaks at 90.1%, and in 🌍 Europe, 89.0% of people still use their birthday as a mobile app or banking PIN. 
+This global pattern of carelessness has opened the door for attackers—and Ian The Ripper walks right through it. 🧨
+
+🧠 Ian The Ripper is a precision tool built to exploit weak PIN habits. Think you're safe because you didn’t use your birthdate? Think again. 
+It only takes 2,345 seconds (that’s less than ⏱️ 40 minutes) to crack a standard 4-digit PIN.
+
+This isn’t just guessing—it’s intelligent ripping. It learns, calculates, and shreds through false security. 🔓 It’s not just another tool—it’s a digital predator hiding in plain sight. 🐍
+
+I hope you find Ian The Ripper both powerful and enlightening. 💡
+
+Enjoy the tool 😈—or become its next example.
+Use wisely... or prepare to be ripped apart. 💥
+
+
 **⚠️ Disclaimer**
 
 **Ian The Ripper** is intended only for authorized penetration testing, security research, and educational purposes.
