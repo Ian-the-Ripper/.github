@@ -1,3 +1,5 @@
+![Screenshot (325)](https://github.com/user-attachments/assets/2b86c083-bdcc-4eb6-9b50-a3958416233c)
+
 # Ian The Ripper 🔓🕷️
 
 **Ian The Ripper** is a modern, GUI-powered cybersecurity password cracking suite inspired by [John the Ripper](https://www.openwall.com/john/). 
